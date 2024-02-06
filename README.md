@@ -8,7 +8,7 @@ An SDK for Cisco NXOS that brings ACI cobra sdk like constructs to the nxos worl
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install nxapi.
 
 ```bash
-python3 -m pip install --upgrade 
+python3 -m pip install --upgrade https://github.com/muthvar1/nxosSDK.git
 
 ```
 
